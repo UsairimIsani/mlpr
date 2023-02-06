@@ -8,6 +8,7 @@ numpy = "*"
 pandas = "*"
 opencv-python = "*"
 matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
