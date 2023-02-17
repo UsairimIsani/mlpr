@@ -9,6 +9,8 @@ pandas = "*"
 opencv-python = "*"
 matplotlib = "*"
 scipy = "*"
+scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
